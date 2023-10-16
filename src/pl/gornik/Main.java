@@ -44,7 +44,7 @@ public class Main {
         System.out.println("TreeSet\n" + setTree);
         System.out.println("Lista\n" + list);
         System.out.println("Długość listy: " + list.size());
-        System.out.println("Czy liczba 30 jest w liście: " + list.contains(30));
+        System.out.println("Czy liczba 20 jest w liście: " + list.contains(20));
         System.out.println("Porównanie Listy i HashSet: " + list.containsAll(setHash));
 
         System.out.println("----------------------------------------");
